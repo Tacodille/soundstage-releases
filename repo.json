@@ -1,0 +1,33 @@
+[
+  {
+    "Author": "Tacodile",
+    "Name": "Soundstage",
+    "InternalName": "Soundstage",
+    "AssemblyVersion": "0.1.0.0",
+    "Description": "A GPose studio. Pick a Scene and it sets the lights, a backdrop, props, camera, ReShade look and pose in one click, with live sliders and your own saved Scenes. Needs Stagehand for lights and Brio for poses. Open it with /soundstage.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "gpose",
+      "lighting",
+      "stagehand",
+      "brio",
+      "scenes",
+      "poses",
+      "reshade"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "One-click GPose scenes: lights, set, camera and look.",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Tacodille/soundstage-releases/main/plugins/Soundstage/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Tacodille/soundstage-releases/main/plugins/Soundstage/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Tacodille/soundstage-releases/main/plugins/Soundstage/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdate": 1795526014,
+    "DownloadCount": 0
+  }
+]
